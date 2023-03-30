@@ -18,6 +18,8 @@ rm -rf T.MASTER
 
 git clone https://github.com/AhMasterbd/T.MASTER/
 
+ls
+
 cd T.MASTER
 
 T.master.py
