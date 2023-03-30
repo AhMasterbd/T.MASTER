@@ -1,4 +1,4 @@
-# T.MASTER
+Of# T.MASTER
 
 pkg update
 
@@ -22,4 +22,4 @@ cd T.MASTER
 
 ls
 
-Python T.master.py
+python T.master.py
