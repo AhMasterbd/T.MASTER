@@ -22,4 +22,4 @@ ls
 
 cd T.MASTER
 
-T.master.py
+Python T.master.py
